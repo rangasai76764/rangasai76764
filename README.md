@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm Gogineni Ranga Sri Venkata Sai</h1>
+<h1 align="center">Hey there! I'm Ranga Sri Venkata Sai Gogineni</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00FACC&center=true&vCenter=true&width=435&lines=Undergraduate+AIML;Building+AI+Projects+with+Passion" alt="Typing SVG" />
